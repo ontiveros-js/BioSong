@@ -1,13 +1,111 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Dongle', sans-serif;
+  font-size: 1.8rem;
+  text-align: center;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bodyDark{
+  background-color: #2C2C2C;
+  color: white
 }
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+
+.input{
+  width: 80%;
+  border: none;
+  border-radius: 15px;
+  border-bottom: 1px rgb(231, 225, 225) solid;
+  outline: none;
+  background-color: rgb(251, 248, 248);
+  padding: 10px;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.inputDark{
+  background-color: #3B3A3E;
+  color: white
+}
+
+.noFound{
+  background-color: yellow;
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+
+.a{
+  text-decoration: none;
+  color: black;
+}
+
+.aDark{
+  text-decoration: none;
+  color: white;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.submit{
+  max-width: 30%;
+  padding-left: 5px;
+  background-color: rgb(221, 215, 207);
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.principal{
+  margin: 5%;
+}
+
+.divMessage{
+  background-color: rgb(236, 231, 231);
+  margin-bottom: 30px
+}
+
+.card{
+  border-radius: 12px;
+  background-color: rgb(251, 248, 248);
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  height: 100%;
+}
+
+.cardDark{
+  background-color: #3B3A3E;
+
+}
+
+.card div{
+  margin-bottom: 100px;
+}
+
+.btnDark{
+font-size: 20px;
+border: none;
+border-radius: 25px;
+margin-top: 20px;
+}
+
+
+@media screen and (min-width: 1025px) {
+  .App{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+    gap: 2rem;
+  }
+
+  .submit{
+    max-width: 20%;
+  }
+}
+
