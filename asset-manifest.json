@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BioSong/static/css/main.592668bd.chunk.css",
+    "main.js": "/BioSong/static/js/main.59d330bc.chunk.js",
+    "main.js.map": "/BioSong/static/js/main.59d330bc.chunk.js.map",
+    "runtime~main.js": "/BioSong/static/js/runtime~main.e47a5e9a.js",
+    "runtime~main.js.map": "/BioSong/static/js/runtime~main.e47a5e9a.js.map",
+    "static/js/2.d7d91a99.chunk.js": "/BioSong/static/js/2.d7d91a99.chunk.js",
+    "static/js/2.d7d91a99.chunk.js.map": "/BioSong/static/js/2.d7d91a99.chunk.js.map",
+    "static/js/3.68b36b5f.chunk.js": "/BioSong/static/js/3.68b36b5f.chunk.js",
+    "static/js/3.68b36b5f.chunk.js.map": "/BioSong/static/js/3.68b36b5f.chunk.js.map",
+    "index.html": "/BioSong/index.html",
+    "precache-manifest.b65d3c552885c72357eacb236fcd27c8.js": "/BioSong/precache-manifest.b65d3c552885c72357eacb236fcd27c8.js",
+    "service-worker.js": "/BioSong/service-worker.js",
+    "static/css/main.592668bd.chunk.css.map": "/BioSong/static/css/main.592668bd.chunk.css.map"
+  }
+}
