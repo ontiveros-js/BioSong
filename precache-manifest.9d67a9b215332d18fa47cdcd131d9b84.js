@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19e9c11e6a8c238ede877c27c2a8a9bb",
+    "revision": "12209fa0cd4dc661395027f76ab8f51d",
     "url": "/BioSong/index.html"
   },
   {
-    "revision": "313daf3b1954a518098d",
+    "revision": "18749bad07d897bde5f9",
     "url": "/BioSong/static/css/main.592668bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BioSong/static/js/3.68b36b5f.chunk.js"
   },
   {
-    "revision": "313daf3b1954a518098d",
-    "url": "/BioSong/static/js/main.f2e15b83.chunk.js"
+    "revision": "18749bad07d897bde5f9",
+    "url": "/BioSong/static/js/main.fb2fa58a.chunk.js"
   },
   {
     "revision": "ca41b9a9b852b8a3ffd3",
